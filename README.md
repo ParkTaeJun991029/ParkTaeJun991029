@@ -1,16 +1,18 @@
-### Hi there 👋
+## Education 
+  -Pusan National University in Mathematics
 
-<!--
-**ParkTaeJun991029/ParkTaeJun991029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Company
+  -Electronics and Telecommunications Research Institute / Autonomous IoT Research Section
+  -AI Startup company laonbud
 
-Here are some ideas to get you started:
+## Paper Research
+  -Analysis of lighting usage patterns for automatic control based on IoT Big Data(first author) | JOINT CONFERENCE ON COMMUNICATIONS AND INFORMATION
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contest 
+  -Changwon Big Data Analysis Contest
+  -Korea Transportation Safety Authority Self-driving Artificial Intelligence Algorithm
+
+## Certificate & Certification
+  - ADSP(Advanced Data Analytics Semi-Professional)
+  - 혁펜하임의 AI DEEP DIVE(Fast campus)
+  - 딥러닝 컴퓨터 비전 완벽 가이드(Inflearn)
