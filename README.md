@@ -9,8 +9,8 @@
   - Analysis of lighting usage patterns for automatic control based on IoT Big Data(first author) | JOINT CONFERENCE ON COMMUNICATIONS AND INFORMATION
 
 ## Contest 
-  - Changwon Big Data Analysis Contest
-  - Korea Transportation Safety Authority Self-driving Artificial Intelligence Algorithm
+  - Changwon Big Data Analysis Contest(Final)
+  - HD HYUNDAI AI CHALLENGE(Final)
 
 ## Certificate & Certification
   - ADSP(Advanced Data Analytics Semi-Professional)
