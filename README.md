@@ -1,5 +1,6 @@
 ## Education 
-  - Pusan National University in Mathematics
+  - Pusan National University Mathematics
+  - Postech INDUSTRIAL AND MANAGEMENT ENGINEERING
 
 ## Company
   - Electronics and Telecommunications Research Institute / Autonomous IoT Research Section
